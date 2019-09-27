@@ -1,5 +1,5 @@
 {
-  "name": "colab-storage",
+  "name": "akashic-storage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,6 @@
     "arweave": "1.4.0",
     "base64-arraybuffer": "^0.2.0",
     "js-file-download": "^0.4.8",
-    "jwk-to-pem": "^2.0.1",
     "react": "^16.9.0",
     "react-blockies": "^1.4.1",
     "react-dom": "^16.9.0",
@@ -39,3 +38,4 @@
     ]
   }
 }
+
